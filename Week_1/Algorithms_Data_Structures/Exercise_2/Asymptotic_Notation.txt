@@ -1,0 +1,25 @@
+Big O Notation in computer science to describe the worst case or upper bound time complexity or space complexity of algorithms. It is denoted by O(f(n)).
+
+It is helpful in ->
+
+1) Comparing the efficiency of different algorithms or data structures.
+2) Understanding the scalability of algorithms and also predicting how they will perform as the input size grows.
+3) Enables developers to optimize code.
+
+Different Scenarios for Search Operations -> 
+
+Linear Search : 
+
+1) Best Case: O(1) (Target element is found at the first position)
+
+2) Average Case: O(n) (Target element is found somewhere at the middle)
+
+3) Worst Case: O(n) (Target element is not found or found at last index)
+
+Binary Search : 
+
+1) Best Case: O (1) (Target is the middle element at the first comparison)
+
+2) Average Case: O (log(n)) (Each step halves the search space)
+
+3) Worst Case: O (log(n)) (Maximum number of times the array can be halved until target is found or not found)

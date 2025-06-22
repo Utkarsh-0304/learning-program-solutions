@@ -1,0 +1,14 @@
+Recursion is defined as a process in which a function calls itself directly or indirectly and the corresponding function is called a recursive function.
+
+It is helpful in simplifying problems that can be broken down into smaller sub-problems.
+
+It helps in simplifying problems like -> 
+
+Fibonacci Problem
+Factorial Problem
+Divide and Conquer Algorithms (Merge Sort, Binary Search, Quick Sort, etc.) 
+Tree/Graph Traversal
+
+
+
+

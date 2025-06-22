@@ -1,0 +1,7 @@
+Time complexity of the recursive approach tends to be O(n), where n stands for number of years, and it is so because the recursive function (getForecast) calls itself n times.
+
+How to optimize the recursive approach -> 
+
+1) Memoization or Tabulation approaches can be used to optimize the recursive solutions with overlapping sub-problems, but in this case there are no such overlapping sub-problems.
+
+2) Instead of recursive approach, iterative approach may be followed so as to avoid stack overflow for larger values of n.
